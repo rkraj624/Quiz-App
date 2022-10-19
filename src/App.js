@@ -39,12 +39,12 @@ export default function App() {
 			],
 		},
 		{
-			questionText: 'How many Harry Potter books are there?',
+			questionText: 'How many states are there in India?',
 			answerOptions: [
-				{ answerText: '1', isCorrect: false },
-				{ answerText: '4', isCorrect: false },
-				{ answerText: '6', isCorrect: false },
-				{ answerText: '7', isCorrect: true },
+				{ answerText: '28', isCorrect: false },
+				{ answerText: '25', isCorrect: false },
+				{ answerText: '32', isCorrect: false },
+				{ answerText: '29', isCorrect: true },
 			],
 		}
 		
