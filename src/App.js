@@ -38,6 +38,15 @@ export default function App() {
 				{ answerText: '7', isCorrect: true },
 			],
 		},
+		{
+			questionText: 'How many Harry Potter books are there?',
+			answerOptions: [
+				{ answerText: '1', isCorrect: false },
+				{ answerText: '4', isCorrect: false },
+				{ answerText: '6', isCorrect: false },
+				{ answerText: '7', isCorrect: true },
+			],
+		}
 		
 	];
 
